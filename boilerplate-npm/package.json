@@ -5,6 +5,7 @@
   "email": "johndoe@example.com",
   "url": "https://example.com/johndoe"
 },
+"description": "a description",  
   "dependencies": {
     "express": "^4.14.0"
   },
