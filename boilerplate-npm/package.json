@@ -6,7 +6,7 @@
   "url": "https://example.com/johndoe"
 },
 "description": "a description",  
-  "keywords": [ "bright", "regaleto", "ninja" ],
+  "keywords": [ "bright", "freecodecamp", "ninja" ],
   "dependencies": {
     "express": "^4.14.0"
   },
